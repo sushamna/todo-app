@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_label">Add</string>
+    <string name="add_new_item_label">Add a new item...</string>
+    <string name="edit_item_below_label">Edit item below:</string>
+    <string name="save_label">Save</string>
+</resources>
