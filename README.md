@@ -7,4 +7,8 @@ With this app, you can:
 * [x] Edit items
 * [x] Persist items and retrieve them on app restart
 
-GIF walkthrough coming soon.
+Check out this walkthrough:
+
+![Walkthrough](todo-app.gif)
+
+GIF created using [LiceCap](http://www.cockos.com/licecap/).
